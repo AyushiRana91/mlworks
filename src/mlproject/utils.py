@@ -20,10 +20,6 @@ db=os.getenv('db')
 
 
 
-
-
-
-
 def read_sql_data():
     logging.info("reading sql database srated")
     try:
